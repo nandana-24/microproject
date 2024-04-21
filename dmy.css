@@ -1,0 +1,27 @@
+.container{
+	display:flex;
+}
+.day{
+	flex:1;
+	padding-left: 50px;
+	position: fixed;
+	padding-top: 40px;
+}
+.month{
+	position:fixed;
+	 top: 90px; 
+	 right:200px;
+	 padding-right: 200px;
+}
+.btn{
+	font-size:15px;
+	background-color: darkgoldenrod;
+	border:#f9f9f9;
+	box-shadow: 0ex;
+}
+.btn:hover{
+	cursor: pointer;
+}
+.text{
+	font-size:20px;
+}

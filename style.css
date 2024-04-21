@@ -1,0 +1,22 @@
+.header{
+    text-align:center;
+}
+li a{
+    text-decoration: none;
+}
+li{
+    font-size:190%;
+    list-style: none;
+    display: inline-block;
+    padding-right: 7%;
+}
+.menu{
+    background-color: antiquewhite;
+}
+#desc{
+    font-size:160%;
+}
+body {
+    background-image: url('/microproject/clg.jpg');
+    background-blend-mode: lighten;
+  }
